@@ -1,7 +1,9 @@
 # odin-recipes
-## practice HTML elements
+## Practice HTML elements
 First Odin Project
-## Skilled learnt
+## Skills learnt
 - using HTML elements
 - folder structure
 - publish main branch to Github Page
+## Link to Github Page
+[Odin Recipe](https://github.com/Steve-Hun/odin-recipes).
